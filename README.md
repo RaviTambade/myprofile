@@ -197,3 +197,7 @@
 Credits: [ravitambade](https://github.com/ravitambade)
 
 Last Edited on: 10/02/2022
+
+- Seed
+- Ibm
+- Transflower
