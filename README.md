@@ -57,7 +57,7 @@
 
 
 
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 ### 👉 Programming languages
 
