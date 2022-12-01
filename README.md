@@ -29,6 +29,32 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=algolia" alt="ravitambade" /></p>
 
 <br>
+
+
+<details>
+  <summary>Hint</summary>
+    
+    rockyou
+</details>  
+
+<details>
+  <summary>Hint</summary>
+    
+    rockyou
+</details>
+
+<details>
+  <summary>What is OOPS?</summary>
+    
+	OOPS is abbreviated Object Oriented Programming system in which programss are considered as a collection of objects. Each object is nothing but an instance of a clas.
+</details>
+
+<details>
+  <summary>What is Class?</summary>
+    
+	A class is simply a representation of a type of object. It is the blueprint/plan/template that describe the details of an object.
+</details>
+
 <br>
 
 
